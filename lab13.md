@@ -6,5 +6,5 @@
 
 ## PART II
 代码实现
-![snakeEAT](snakeEAT的副本.cpp)
-![snakeMOVE](snakeMOVE的副本.cpp)
+[snakeEAT](snakeEAT的副本.cpp)    
+[snakeMOVE](snakeMOVE的副本.cpp)
