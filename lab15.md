@@ -1,7 +1,7 @@
 # 智能蛇实验报告
 
 ## 环境配置：
-我的电脑操作系统为os。因此我下载了VMware Fusion虚拟机，下载了Ubuntu的18镜像，利用镜像成功安装。效果如下：
+我的电脑操作系统为os。因此我下载了VMwareFusion虚拟机，下载了Ubuntu的18镜像，利用镜像成功安装。效果如下：
 ![](https://upload.cc/i1/2018/12/12/XpZr6a.png)
 
 之后配置c的编译环境和gcc    
